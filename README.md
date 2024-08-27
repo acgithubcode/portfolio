@@ -1,4 +1,4 @@
-
+![Alt text](assets/img/headshot_circle.png.png)
 # Mobile App Developer
 
 #### Technical Skills: Flutter, SQL, Firebase, dart, Swift
